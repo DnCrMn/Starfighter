@@ -101,12 +101,12 @@
         {
             "name": "Ruin of Alien War", 
             "type": "item",
-            "items": ["Laser Upgrade", "Shield Booster"] 
+            "items": ["Laser Upgrade", "Shield Booster", "Laser Upgrade", "Laser Upgrade"] 
         },
         {
             "name": "Abandoned Station", 
             "type": "item",
-            "items": ["Medkit", "Shield Booster"]
+            "items": ["Medkit", "Shield Booster", "Shield Booster", "Medkit", "Medkit"]
         },
         {
             "ascii": [

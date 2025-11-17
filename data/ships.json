@@ -1,17 +1,17 @@
 {
     "Specter Wing": {
-        "health": 85, 
+        "health": 100, 
         "attack": 10, 
-        "defense": 3 
+        "defense": 25 
     },
     "Astral Saber": {
-        "health": 65, 
+        "health": 85, 
         "attack": 20, 
-        "defense": 1
+        "defense": 10
     },
     "Iron Comet": {
-        "health": 100, 
-        "attack": 8, 
-        "defense": 10 
+        "health": 125, 
+        "attack": 5, 
+        "defense": 45 
     }
 }

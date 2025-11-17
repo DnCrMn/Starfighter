@@ -3,20 +3,20 @@
         {
             "name": "Medkit", 
             "type": "heal", 
-            "description": "Restores 20 Health",
-            "value": 20
+            "description": "Restores 30 Health",
+            "value": 30 
         },
         {
             "name": "Laser Upgrade",
             "type": "attack",
-            "description": "Increases attack by 5",
-            "value": 5
+            "description": "Increases attack by 10",
+            "value": 10
         },
         {
             "name": "Shield Booster", 
             "type": "defense", 
-            "description": "Increases defense by 10",
-            "value": 10
+            "description": "Increases defense by 15",
+            "value": 15
         }
     ]
 }
